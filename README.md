@@ -25,9 +25,6 @@
    python tools/train.py configs/dpnet/name_to_config.py  # name_to_config.py is the configuration file you want to use
    ```
 
-## Data Preparation
-
-Prepare your remote sensing image dataset as needed, and follow the project's preprocessing requirements. Example data formats and processing flows can be found in the `data/` directory and relevant scripts.
 
 ## Acknowledgements
 
