@@ -22,8 +22,7 @@
 
 3. Run training/testing scripts:
    ```bash
-   python train.py
-   python test.py
+   python tools/train.py configs/dpnet/name_to_config.py  # name_to_config.py is the configuration file you want to use
    ```
 
 ## Data Preparation
